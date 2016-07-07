@@ -1,0 +1,16 @@
+{
+  "apps": [{
+    "name": "mms",
+    "script": "www/production.js",
+    "cwd": "/Users/zhangyan/Desktop/test/MMS/mms",
+    "exec_mode": "cluster",
+    "instances": 0,
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
